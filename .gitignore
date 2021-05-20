@@ -274,3 +274,9 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+
+# WAF specific files
+*.bst
+*.cls
+*.sty
